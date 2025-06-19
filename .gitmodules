@@ -1,0 +1,3 @@
+[submodule "ola-map"]
+	path = ola-map
+	url = https://github.com/soniiosandweb/ola-map.git
